@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="/images/picture.jpg" width="230" height="400">
+    <img src="/images/picture.jpg" width="300" height="400">
+    <hr>
     #Эбулисов Эмиль
     >Начинающий Front-End разработчик!
 </div>
