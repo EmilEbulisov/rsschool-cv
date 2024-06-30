@@ -1,14 +1,8 @@
-<div align="center">
-    <img src="/images/picture.jpg" width="100" height="150" class="image">
+<div align="center" style="border-radius: 100px;">
+    <img src="/images/picture.jpg" width="100" height="150">
     <hr>
 </div>
-<style>
-   .image {
-    border-radius: 100px; 
-    border: 3px solid black; 
-    box-shadow: 0 0 7px #666; 
-   }
-  </style>
+
 #Эбулисов Эмиль
 >Начинающий Front-End разработчик!
 Дата рождения: 13.12.2005
