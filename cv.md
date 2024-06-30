@@ -1,9 +1,9 @@
 <div align="center">
     <img src="/images/picture.jpg" width="300" height="400">
     <hr>
-    #Эбулисов Эмиль
-    >Начинающий Front-End разработчик!
 </div>
+#Эбулисов Эмиль
+>Начинающий Front-End разработчик!
 Дата рождения: 13.12.2005
 Пол: Муж
 
