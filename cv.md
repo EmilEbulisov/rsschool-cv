@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/images/picture.jpg" width="300" height="400">
+    <img src="/images/picture.jpg" width="100" height="150">
     <hr>
 </div>
 #Эбулисов Эмиль
