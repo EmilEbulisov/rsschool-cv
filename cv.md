@@ -1,11 +1,13 @@
-<div align="center" style="border-radius: 100px;">
-    <img src="/images/picture.jpg" width="100" height="150">
+<div align="center">
+    <img src="/images/picture.jpg" width="120" height="150">
     <hr>
 </div>
 
 #Эбулисов Эмиль
 >Начинающий Front-End разработчик!
+
 Дата рождения: 13.12.2005
+
 Пол: Муж
 
 Я уже владею базовыми навыками в:
